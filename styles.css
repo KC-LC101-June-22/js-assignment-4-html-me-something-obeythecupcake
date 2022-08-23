@@ -2,8 +2,20 @@ body {
     margin: 8px;
     padding: 2px;
     display: block;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(250, 241, 162);
+
 }
 
 #mainHeading {
     color: red;
+}
+
+.funParagraph {
+    color: green
+}
+
+footer {
+    font-size: small
 }
